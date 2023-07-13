@@ -1,0 +1,18 @@
+.card {
+    /* display: inline-block; */
+    /* display: flex; */
+     /* float: left; */
+    /* display: grid;  */
+}
+
+p {
+    font-weight: bold;
+    font-style: italic;
+}
+.container-fluid{
+    z-index: 3;
+}
+img {
+    /* object-fit: contain; */
+    height: 180%;
+}
